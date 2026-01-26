@@ -47,4 +47,7 @@ void loop() {
     Serial.println("Olcum disi");
     digitalWrite(LED_PIN, LOW);
   }
+
+  delay(500);
+
 }
